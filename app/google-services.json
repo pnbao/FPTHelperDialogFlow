@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "95968361053",
+    "firebase_url": "https://fpthelper.firebaseio.com",
+    "project_id": "fpthelper",
+    "storage_bucket": "fpthelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95968361053:android:efcaf4b1b80add48",
+        "android_client_info": {
+          "package_name": "js1102.pnbao.fpthelperdialogflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95968361053-95j3312pm4k85mbg93oh5qp5tst9u2ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAlE4nt1jp2fz0Y6ffnLs_3UXSwnr8RyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
